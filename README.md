@@ -6,3 +6,4 @@ This repository contains the following:
 4. Final project for the class of Dynamical Systems at ITAM 2019, *Project_DS*
 5. Final project for the class of Time Series at ITAM 2019, *Project_TS* and its presentation.
 
+These were all team efforts, so I share their credit and merit with my teammates.
